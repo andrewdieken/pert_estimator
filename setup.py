@@ -9,6 +9,7 @@ setup(
     version='0.01.0',
     license='MIT',
     description='PERT estimation tool',
+    long_description=readme,
     long_description_content_type='text/markdown',
     author='Andrew Dieken',
     author_email='andrewrd@live.com',
