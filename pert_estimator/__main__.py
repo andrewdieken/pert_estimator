@@ -1,4 +1,5 @@
 import sys
+
 from prettytable import PrettyTable
 
 from pert_estimator import utils
