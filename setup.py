@@ -8,7 +8,7 @@ setup(
     name='pert_estimator',
     version='0.01.0',
     license='MIT',
-    description='Tool for PERT estimation',
+    description='PERT estimation tool',
     long_description_content_type='text/markdown',
     author='Andrew Dieken',
     author_email='andrewrd@live.com',
