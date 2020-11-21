@@ -7,9 +7,9 @@ PERT estimation tool
 
 PERT is an estimating technique which uses three numbers to compute a final estimation (expected duration) and a standard deviation. The three numbers you provide are
 
-- **O**: Optimistic Estimate. This number is wildly optimistic. You could only get the task done this quickly if absolutely everything went right. Indeed, in order for the math to work this number should have much less than a 1% change of occurrence.
-- **N**: Nominal Estimate. This is the estimate with the greatest chance of success.
-- **P**: Pessimistic Estimate. Once again this is wildly pessimistic. It should include everything except hurricanes, nuclear war, stray black holes, and other catastrophes. Again, the math only works if this number has much less than a 1% change of success.
+- __O__: Optimistic Estimate. This number is wildly optimistic. You could only get the task done this quickly if absolutely everything went right. Indeed, in order for the math to work this number should have much less than a 1% change of occurrence.
+- __N__: Nominal Estimate. This is the estimate with the greatest chance of success.
+- __P__: Pessimistic Estimate. Once again this is wildly pessimistic. It should include everything except hurricanes, nuclear war, stray black holes, and other catastrophes. Again, the math only works if this number has much less than a 1% change of success.
 
 ### Calculations
 
