@@ -1,7 +1,7 @@
 import sys
 from prettytable import PrettyTable
 
-import utils
+from pert_estimator import utils
 
 def main():
     """ Main """
