@@ -16,9 +16,7 @@ setup(
     url='https://github.com/andrewdieken/pert_estimator',
     keywords=['pert', 'estimator', 'ticket', 'story'],
     packages=['pert_estimator'],
-    install_requires=[
-        'prettytable>=2.0.0'
-    ],
+    install_requires=['prettytable'],
     entry_points={
         'console_scripts': [
             'pert_estimator = pert_estimator.__main__:main'
