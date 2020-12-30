@@ -6,7 +6,7 @@ with open('README.md') as f:
 
 setup(
     name='pert_estimator',
-    version='0.01.1',
+    version='0.01.2',
     license='MIT',
     description='PERT estimation tool',
     long_description=readme,
